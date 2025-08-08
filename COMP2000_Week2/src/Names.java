@@ -4,10 +4,14 @@ public class Names {
 		// Put your signature function on the below line!
 		PrintHarrisSig();
 		// Put your signature function on the above line!
+		PrintAshneilSig();
 	}
 	
 	public static void PrintHarrisSig() {
 		System.out.println(".--.     /\\                ____");
 		System.out.println("'--'    /__\\    (^._.^)~ <(o.o )>");
+	}
+	public static void PrintAshneilSig() {
+		System.out.println("ashneil");
 	}
 }
